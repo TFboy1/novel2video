@@ -1,4 +1,4 @@
-from backend.llm.openai import query_openai
+from backend.llm.openai_ import query_openai
 from backend.llm.sambanova import query_samba_nova
 from backend.llm.siliconflow import query_silicon_flow
 from backend.util.file import get_config
